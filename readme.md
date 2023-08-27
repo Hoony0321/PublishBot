@@ -1,8 +1,8 @@
 # Notion to Velog 자동화봇
 
-한 줄 소개: Notion 기록을 자동으로 Velog에 게시해주는 자동화 툴입니다.
-사용기술: Notion API, Python, Selenium, Zapier
-프로젝트 기간: 2023년 8월 13일 → 2023년 8월 27일
+한 줄 소개: Notion 기록을 자동으로 Velog에 게시해주는 자동화 툴입니다.  
+사용기술: Notion API, Python, Selenium, Zapier  
+프로젝트 기간: 2023년 8월 13일 → 2023년 8월 27일  
 
 <br>
 <br>
